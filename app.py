@@ -18,7 +18,7 @@ def get_info():
     current_datetime = datetime.utcnow().isoformat() + "Z"
     
     # Replace with your GitHub repository URL
-    github_url = "https://github.com/Akolite98"
+    github_url = "https://github.com/Akolite98/HNG-project-0"
     
     # Return JSON response
     return jsonify({
